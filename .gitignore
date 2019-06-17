@@ -29,3 +29,4 @@
 
 # Ignores 'build' in any sub folder
 build/
+.vscode/
